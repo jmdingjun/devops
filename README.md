@@ -20,4 +20,4 @@ $ cat id_rsa.pub
 
 3.克隆仓库代码
 
-git clone git@github.com:su-cloud/devops.git
+git clone  git@github.com:jmdingjun/devops.git
